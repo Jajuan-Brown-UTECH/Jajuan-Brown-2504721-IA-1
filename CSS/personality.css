@@ -1,0 +1,23 @@
+.personality-h1{
+  text-transform: uppercase;
+  text-decoration: underline;
+  color:lightpink;
+}
+
+#heroes{
+  margin-bottom: 0;
+  padding-bottom: 20vh;
+}
+
+.quote-text{
+  text-align: center;
+  padding-left: 2vw;
+  padding-right:2vw;
+  line-height:10vh;
+}
+
+#essay{
+  padding-top: 6vh;
+  padding-bottom:10vh;
+  margin-bottom:0;
+}

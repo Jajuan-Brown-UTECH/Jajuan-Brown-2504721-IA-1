@@ -1,0 +1,59 @@
+#section-intro {
+  border-bottom: 2px solid black;
+}
+
+#section-intro h3 {
+  align-self: flex-start;
+  font-size: clamp(14px, 3vw + 2px, 25px);
+  line-height: 7vh;
+  font-family: 'Headland One', 'Roboto', 'Times New Roman', Times, serif;
+}
+
+#section-intro a:hover {
+  color: black;
+  transition: ease-in-out .2s;
+}
+
+.prof-section {
+  text-align: center;
+  line-height: 7vh;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: clamp(14px, 2vw + 5px, 25px);
+  border-bottom: 2px solid black;
+  padding-bottom: 5vh;
+}
+
+.prof-section h4 {
+  margin-top: -3vh;
+  font-style: italic;
+}
+
+.prof-section span {
+  font-style: italic;
+}
+
+.prof-section ul {
+  align-self: flex-start;
+}
+
+.prof-section li {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: left;
+  line-height: 4vh;
+  font-size: clamp(14px, 3vw + 7px, 25px);
+  margin-bottom: 10vh;
+
+}
+
+#bottom-section{
+  padding-bottom: 0;
+}
+
+#bottom-section li a {
+  color: darkblue;
+  transition: ease-in-out .2s;
+}
+
+#bottom-section li a:hover{
+  color: lightblue;
+}

@@ -1,0 +1,26 @@
+#ch5-container{
+  display: flex;
+  justify-content: center;
+  padding: 7vh;
+}
+#ch5{
+  color: black;
+  text-align: center;
+  font-size: 2vw;
+}
+
+#ch5:hover{
+  color: lightblue;
+  transition: .2s ease;
+}
+
+.chapters p {
+  align-self: flex-start;
+  line-height: 7vh;
+}
+
+ol li{
+  line-height: 7vh;
+  font-weight: bold;
+  margin-bottom: -2vh;
+}

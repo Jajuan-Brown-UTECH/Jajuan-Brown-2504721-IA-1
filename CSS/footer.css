@@ -1,0 +1,18 @@
+footer {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  padding: 3vh;
+}
+
+footer p {
+  font-size: clamp(14px, 2vw + 5px, 25px);
+  font-family: 'Roboto', 'Times New Roman', Times, serif;
+  color: white;
+  font-weight: bold;
+}
+
+footer span {
+  color: grey;
+  font-weight: 400;
+}
